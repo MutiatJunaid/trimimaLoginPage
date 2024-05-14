@@ -1,0 +1,16 @@
+{
+    "emailField": "#email",
+    "validEmail":"muti88@yopmail.com",
+    "passwordField":"#password",
+    "loginBtn":"button[type='submit']",
+    "welcomNote": ".AppPage_topside_name__7zj2X",
+    "note":"yinde",
+    "invalidEmail":"muti88@yopmail",
+
+    "invalidDetailsErrormsge":".MimaInput_error__QkKJM",
+    "errorMsge": "Enter a valid Email",
+    "validPassword":"Muti9999",
+    "emptyErrorMsge":"Email Address is required",
+    "emptyDetailError": ".MimaInput_error__QkKJM"
+
+}
